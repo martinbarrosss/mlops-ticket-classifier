@@ -35,6 +35,7 @@ mlops-ticket-classifier/
 ├── Dockerfile                  # Container instructions
 ├── requirements.txt            # Production dependencies
 └── README.md
+```
 
 ## 🚀 Future Improvements
 While the current pipeline is fully functional, next steps for scaling include:
